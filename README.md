@@ -1,2 +1,2 @@
-# isochores
+# Isochores
 Isochores by IsoFinder
