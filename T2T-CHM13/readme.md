@@ -4,17 +4,18 @@ CHM13hTERT cells were grown in culture from one such conception at Magee-Womenâ€
 
 On this directory, you can find the coordinates of the isochores predicted by IsoFinder [2] in the complete gap-free human genome obtained by the Telomere-to-Telomere (T2T) consortium in the cell line T2T-CHM13 [1]. Chromosome FASTA sequences were obtained from the GenBank assembly accession GCA_009914755.4 (GCA_009914755.4_T2T-CHM13v2.0_genomic.fna.gz).
 
-### IsoFinder sintax:
+### IsoFinder sintax
 
 `isofinder <DNA FASTA file> <Sig.Level> <Sig.Method> <Coarse-graining level> <File out>`
 
-#### Used values for the parameters:
+#### Used values for the parameters
   
 1. Significance level: 0.95 
 2. Significance method: p3 (Parametric for maximum value)
 3. Coarse-graining level: 3000
 
-#### Output
+#### Output (chr_T2T-CHM13_iso.zip)
+
 Isochore coordinates for each chromosome are output to a BED formatted text file with the following fields:
 1.	chrom - The name of the chromosome (e.g. chr3, chrXâ€¦).
 2.	chromStart - The starting position of the isochore in the chromosome.
