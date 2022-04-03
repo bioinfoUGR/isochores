@@ -14,7 +14,7 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 2. Significance method: p3 (Parametric for maximum value)
 3. Coarse-graining level: 3000
 
-#### Output (chr_T2T-CHM13_iso.zip)
+#### Output (chr_T2T-CHM13_iso.zip: https://github.com/bioinfoUGR/isochores/blob/main/T2T-CHM13/chr_T2T-CHM13_iso.zip)
 
 Isochore coordinates for each chromosome are output to a BED formatted text file with the following fields:
 1.	chrom - The name of the chromosome (e.g. chr3, chrX…).
