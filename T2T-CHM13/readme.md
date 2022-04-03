@@ -14,6 +14,10 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 2. Significance method: p3 (Parametric for maximum value)
 3. Coarse-graining level: 3000
 
+#### Output
+
+![imagen](https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png)
+
 ### References
 
 [1] Sergey Aganezov et al. (2022) A complete reference genome improves analysis of human genetic variation, Science, 376, 6588. https://doi.org/10.1126/science.abl3533
