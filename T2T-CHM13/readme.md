@@ -16,14 +16,12 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 
 #### Output
 Isochore coordinates for each chromosome are output to a BED formatted table with the following fields:
-1. chrom
-2. chromStart
-3. chromEnd
-4. name
-5. score
-6. strand
-7. length
-8. GC
+1.	chrom - The name of the chromosome (e.g. chr3, chrX…).
+2.	chromStart - The starting position of the isochore in the chromosome.
+3.	chromEnd - The ending position of the isochore in the chromosome. 
+4.	name - The name of the isochore.
+5.	score - A score between 0 and 1000, indicating the level of gray in which this isochore may be displayed (higher numbers = darker gray) in a graphical representation (e.g. UCSC Genome Browser)
+6.	strand - Defines the strand. Either "." (=no strand) or "+" or "-".
 
 ![imagen](https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png)
 
