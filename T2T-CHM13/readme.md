@@ -1,4 +1,4 @@
-## Isochores in the complete gap-free human genome from the T2T-CHM13 cell line
+## Isochores in T2T gap-free human genome from the CHM13 cell line
 
 CHM13hTERT cells were grown in culture from one such conception at Magee-Women’s Hospital (Pittsburgh, PA). Cryogenically frozen cells from this culture were grown and transformed using human telomerase reverse transcriptase (hTERT) to develop a cell line. This cell line retains a 46,XX karyotype and near-complete homozygosity [1]
 
