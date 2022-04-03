@@ -1,6 +1,8 @@
-# Isochores in T2T complete gap-free human genomes obtained by IsoFinder
+# Isochores in the complete gap-free human genome from the T2T-CHM13 cell line
 
-On this directory, you can find the coordinates of the isochores predicted by IsoFinder [1] in the complete gap-free human genome obtained by the Telomere-to-Telomere (T2T) consortium in the cell line T2T-CHM13 [2].
+CHM13hTERT cells were grown in culture from one such conception at Magee-Women’s Hospital (Pittsburgh, PA). Cryogenically frozen cells from this culture were grown and transformed using human telomerase reverse transcriptase (hTERT) to develop a cell line. This cell line retains a 46,XX karyotype and near-complete homozygosity [1]
+
+On this directory, you can find the coordinates of the isochores predicted by IsoFinder [2] in the complete gap-free human genome obtained by the Telomere-to-Telomere (T2T) consortium in the cell line T2T-CHM13 [1]. Chromosome FASTA sequences were obtained from the GenBank assembly accession GCA_009914755.4 (GCA_009914755.4_T2T-CHM13v2.0_genomic.fna.gz).
 
 ## IsoFinder sintax:
 
@@ -14,7 +16,9 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 
 ## References
 
-[1] Oliver JL, Carpena P, Hackenberg M, Bernaola-Galván P. 2004. IsoFinder: computational prediction of isochores in genome sequences. Nucleic Acids Research 32: W287-W292. http://dx.doi.org/10.1093/nar/gkh399
+[1] Sergey Aganezov et al. (2022) A complete reference genome improves analysis of human genetic variation, Science, 376, 6588. https://doi.org/10.1126/science.abl3533
 
-[2] Sergey Aganezov et al. (2022) A complete reference genome improves analysis of human genetic variation, Science, 376, 6588. https://doi.org/10.1126/science.abl3533
+[2] Oliver JL, Carpena P, Hackenberg M, Bernaola-Galván P. 2004. IsoFinder: computational prediction of isochores in genome sequences. Nucleic Acids Research 32: W287-W292. http://dx.doi.org/10.1093/nar/gkh399
+
+
 
