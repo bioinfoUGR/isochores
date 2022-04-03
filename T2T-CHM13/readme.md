@@ -2,7 +2,7 @@
 
 CHM13hTERT cells were grown in culture from one such conception at Magee-Women’s Hospital (Pittsburgh, PA). Cryogenically frozen cells from this culture were grown and transformed using human telomerase reverse transcriptase (hTERT) to develop a cell line. This cell line retains a 46,XX karyotype and near-complete homozygosity [1]
 
-On this directory, you can find the coordinates of the isochores predicted by IsoFinder [2] in the complete gap-free human genome obtained by the Telomere-to-Telomere (T2T) consortium in the cell line T2T-CHM13 [1]. Chromosome FASTA sequences were obtained from the GenBank assembly accession GCA_009914755.4 (GCA_009914755.4_T2T-CHM13v2.0_genomic.fna.gz).
+On this directory, you can find the coordinates of the isochores predicted by IsoFinder [2] (https://github.com/bioinfoUGR/isofinder) in the complete gap-free human genome obtained by the Telomere-to-Telomere (T2T) consortium in the cell line T2T-CHM13 [1]. Chromosome FASTA sequences were obtained from the GenBank assembly accession GCA_009914755.4 (GCA_009914755.4_T2T-CHM13v2.0_genomic.fna.gz).
 
 ### IsoFinder sintax
 
