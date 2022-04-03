@@ -15,6 +15,15 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 3. Coarse-graining level: 3000
 
 #### Output
+Isochore coordinates for each chromosome are output to a BED formatted table with the following fields:
+1. chrom
+2. chromStart
+3. chromEnd
+4. name
+5. score
+6. strand
+7. length
+8. GC
 
 ![imagen](https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png)
 
