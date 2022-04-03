@@ -6,9 +6,9 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 
 ## IsoFinder sintax:
 
-   isofinder <DNA FASTA file> <Sig.Level> <Sig.Method> <Coarse-graining level> <File out>
+`isofinder <DNA FASTA file> <Sig.Level> <Sig.Method> <Coarse-graining level> <File out>`
 
-## Used values for the parameters:
+#### Used values for the parameters:
   
 1. Significance level: 0.95 
 2. Significance method: p3 (Parametric for maximum value)
