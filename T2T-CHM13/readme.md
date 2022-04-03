@@ -15,7 +15,7 @@ On this directory, you can find the coordinates of the isochores predicted by Is
 3. Coarse-graining level: 3000
 
 #### Output
-Isochore coordinates for each chromosome are output to a BED formatted table with the following fields:
+Isochore coordinates for each chromosome are output to a BED formatted text file with the following fields:
 1.	chrom - The name of the chromosome (e.g. chr3, chrX…).
 2.	chromStart - The starting position of the isochore in the chromosome.
 3.	chromEnd - The ending position of the isochore in the chromosome. 
