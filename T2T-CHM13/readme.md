@@ -24,7 +24,7 @@ Isochore coordinates for each chromosome are output to a BED formatted text file
 5.	score - A score between 0 and 1000, indicating the level of gray in which this isochore may be displayed (higher numbers = darker gray) in a graphical representation (e.g. UCSC Genome Browser)
 6.	strand - Defines the strand. Either "." (=no strand) or "+" or "-".
 
-![imagen](https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png)
+<img src="https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png" width="500">
 
 ### References
 
