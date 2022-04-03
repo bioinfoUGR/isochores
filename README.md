@@ -1,4 +1,4 @@
-# Isochores predicted by IsoFinder in T2T gap-free genomes
+## Isochores predicted by IsoFinder in T2T gap-free genomes
 
 The genomes of warm-blooded vertebrates are made up of isochores, long DNA segments fairly homogeneous in G+C which were first revealed by analytical ultracentrifugation of bulk DNA [1]. The algorithm IsoFinder [2] is able to predict isochores at the sequence level. Most of the IsoFinder isochores show correlation with biological features such as gene density, SINE and LINE densities, recombination rate or SNP variability. The reliability of this algorithm in predicting isochore-like regions at the sequence level has been established through the analysis of large-scale genome patchiness by an independent method: the analysis of the deviations in the power-law behavior of long-range correlations [3,4].
 
@@ -8,7 +8,7 @@ On this website, you can find the coordinates of the isochores predicted by IsoF
 
 Isochores T2T-CHM13: (https://github.com/bioinfoUGR/isochores/tree/main/T2T-CHM13)
 
-## References
+### References
 
 [1] Bernardi,G., Olofson,B., Filipski,J., Zerial,M., Salinas,J., Cuny,G., Meunier-Rotival,M. and Rodier,F. (1985) The mosaic genome of warm-blooded vertebrates. Science, 228, 953–958.
 
