@@ -26,6 +26,34 @@ Isochore coordinates for each chromosome are output to a BED formatted text file
 5.	score - A score between 0 and 1000, indicating the level of gray in which this isochore may be displayed (higher numbers = darker gray) in a graphical representation (e.g. UCSC Genome Browser)
 6.	strand - Defines the strand. Either "." (=no strand) or "+" or "-".
 
+Isochore legths
+|chrom|N|Min|Median|Max|
+|-----|-|---|------|---|
+|chr1|1113|30004| 102,983   | 5,403,580|
+|chr2|897|30004| 128,804   | 4,304,270|   
+|chr3|656|30004| 127,485   | 5,001,190|   
+|chr4|427|30004| 234,223   | 5,642,550|   
+|chr5|561|30004| 164,800   | 7,206,270|   
+|chr6|510|30004| 163,262   | 3,500,380|   
+|chr7|596|30004| 119,830   | 3,412,220|   
+|chr8|449|30004| 147,916   | 4,875,420|   
+|chr9|501|30004| 107,885   | 22,256,800|   
+|chr10|562|30004| 121,504   | 3,195,210|   
+|chr11|551|30004| 109,143   | 3,008,680|   
+|chr12|505|30005| 115,060   | 3,649,550|   
+|chr13|317|30004| 128,955   | 10,449,500|   
+|chr14|426|30004| 101,284   | 3,881,480|   
+|chr15|461|30004| 104,795   | 7,482,370|   
+|chr16|457|30004| 82,508   | 12,645,100|  
+|chr17|517|30004| 82,785   | 4,713,850|   
+|chr18|237|30004| 180,918   | 3,584,850|   
+|chr19|313|30004| 101,006   | 2,676,290|   
+|chr20|314|30004| 101,682   | 2,232,290|   
+|chr21|178|30004| 95,755   | 4,852,870|   
+|chr22|342|30004| 68,700   | 1,690,830|   
+|chrX|366|30004| 166,946   | 14,835,700|   
+
+
 <img src="https://user-images.githubusercontent.com/8526974/161422809-0045fb9c-0484-48e7-814c-8f327bf0904e.png" width="500">
 
 ### References
