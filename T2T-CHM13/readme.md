@@ -82,7 +82,7 @@ Isochore coordinates for each chromosome are output to a BED formatted text file
 
 ### References
 
-[1] Sergey Aganezov et al. (2022) A complete reference genome improves analysis of human genetic variation, Science, 376, 6588. https://doi.org/10.1126/science.abl3533
+[1] Nurk S, Koren S, Rhie A, Rautiainen M, Bzikadze A et. al. (2022) The complete sequence of a human genome (2022). Science 376, pp: 44-53, DOI: 10.1126/science.abj6987
 
 [2] Oliver JL, Carpena P, Hackenberg M, Bernaola-Galván P. 2004. IsoFinder: computational prediction of isochores in genome sequences. Nucleic Acids Research 32: W287-W292. http://dx.doi.org/10.1093/nar/gkh399
 
