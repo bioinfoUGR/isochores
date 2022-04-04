@@ -1,0 +1,15 @@
+hub IsochoresHub
+shortLabel T2T isochores
+longLabel Example hub for the 'useOneFile on' setting
+useOneFile on
+email oliver@ugr.es
+
+genome GCA_009914755.4
+
+track Isochores T2T
+shortLabel example
+longLabel T2T isochores
+visibility pack
+type bigBED
+maxWindowToDraw 200000
+bigDataUrl https://github.com/bioinfoUGR/isochores/blob/main/T2T-CHM13/th/myBigBed.bb
