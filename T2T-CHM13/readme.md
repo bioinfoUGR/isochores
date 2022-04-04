@@ -28,7 +28,7 @@ Isochore coordinates for each chromosome are output to a BED formatted text file
 
 ### Statistics of isochore legnths
 |chrom|N|Min|Median|Max|
-|-----|-|---|------|---|
+|-----|-:|---:|------:|---:|
 |chr1|1113|30004|102,983|5,403,580|
 |chr2|897|30004|128,804|4,304,270|
 |chr3|656|30004|127,485|5,001,190|
@@ -55,7 +55,7 @@ Isochore coordinates for each chromosome are output to a BED formatted text file
 
 ### Statistics of isochore GC%
 |chrom|N|Min|Median|Max|
-|-----|-|---|------|---|
+|-----|-:|---:|------:|---:|
 |chr1|1113|32.80|43.02|67.96|
 |chr2|897|31.57|41.20|66.39|
 |chr3|656|21.54|41.23|62.17|
